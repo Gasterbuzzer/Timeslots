@@ -11,7 +11,7 @@
 | 14:10 | Free       | Free        | Free      | Free     |
 | 14:30 | Free       | Free        |**Group 9**| Free     |
 | 14:50 | Free       | Free        | Free      | Free     |
-| 15:10 | Free       | Free        | Free      | Free     |
-| 15:30 | Free       | **Group 14**| Free      |  ==X==   |
+| 15:10 | Free       | **Group 14**| Free      | Free     |
+| 15:30 | Free       | Free        | Free      |  ==X==   |
 | 15:50 | Free       | Free        | Free      |  ==X==   |
 -----------------------------------------------------------
