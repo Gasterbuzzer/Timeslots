@@ -6,7 +6,7 @@
 | 12:30 | Free       |  ==X==      |   ==X==   |  ==X==   |
 | 12:50 | Free       |  ==X==      |   ==X==   |  ==X==   |
 | 13:10 | Free       |  ==X==      |   ==X==   |  ==X==   |
-| 13:30 |**Group 5** | Free        |   ==X==   | Free     |
+| 13:30 |**Group 5** | Free        |**Group 8**| Free     |
 | 13:50 |**Group 11**| **Group 6** |**Group 4**| Free     |
 | 14:10 | Free       | Free        |**Group 1**| Free     |
 | 14:30 | Free       | Free        |**Group 9**| Free     |
